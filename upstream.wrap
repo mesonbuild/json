@@ -1,0 +1,6 @@
+[wrap-file]
+directory = json-2.0.2
+
+source_url = https://github.com/nlohmann/json/archive/v2.0.2.tar.gz
+source_filename = json-2.0.2.tar.gz
+source_hash = 62d99d8b66a314ed02a58a3e50ed180056e8f858044d8b873cf75456328e6f8d
