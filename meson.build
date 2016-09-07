@@ -1,4 +1,4 @@
-project('json', 'cpp', version : '2.0.3',
+project('json', 'cpp', version : '2.0.3', license : 'MIT',
         default_options : ['cpp_std=c++11'])
 
 inc = include_directories('src')
